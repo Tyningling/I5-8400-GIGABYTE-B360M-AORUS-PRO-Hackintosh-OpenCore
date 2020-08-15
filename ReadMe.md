@@ -5,14 +5,14 @@
 
 我目前的机子是这样引导的：
 
-##### UEFI  ->   Refind[强烈建议 主题好看上手简单还没有BIOS风险] -> {「OC&黑苹果」,「Windows10」,「Grub2&Deepin」}
+UEFI  ->   Refind[强烈建议 主题好看上手简单还没有BIOS风险] -> {「OC&黑苹果」,「Windows10」,「Grub2&Deepin」}
 
 ```
 机器配置:
 主板:GIGABYTE-B360M-AORUS-PRO
 CPU:I5-8400
-无线网卡：BCM-4322 
-蓝牙：来自AC9560的蓝牙支持{WIFI暂时无法驱动支持 但听说AppleIntel已经能初步加载7、9系的部分网卡了，期待那一天到来。} [2020.5.28：Intelwifi已经能够初步驱动9560，但是目前还不是很完善]
+无线网卡：BCM-4322  Intel-AC9560 
+蓝牙：来自AC9560的蓝牙支持 
 声卡：ALC892
 内存：16G
 显卡：8400核显 - UHD630
