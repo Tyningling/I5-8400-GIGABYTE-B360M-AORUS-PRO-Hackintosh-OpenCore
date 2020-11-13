@@ -1,6 +1,6 @@
 更新中：
 
-macOS Big Sur 11.0.1 Beta版 (20B5022a)
+macOS Big Sur 11.0.1 Beta版 (20B29)
 
 已完结：
 
